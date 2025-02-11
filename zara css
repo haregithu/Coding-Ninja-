@@ -1,0 +1,191 @@
+*{
+    margin: 0; padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: all 0.4s linear;
+    border: 0; outline: none;
+    font-family: 'lora', serif;
+}
+
+
+html{
+    scroll-behavior: smooth;
+    font-size: 66%;
+    overflow-x: hidden;
+}
+
+
+body {
+
+    font-family: Arial, sans-serif;
+    background-image: url(https://store.fastly.steamstatic.com/public/shared/images/joinsteam/acct_creation_bg.jpg);
+  
+}
+header{
+    font-size: 3.5rem;
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 3%;
+    color: black;
+
+}
+
+header .logo span{
+    font-weight: boder;
+    color:rgb(255, 5, 5);
+    font-size: 4.2rem;
+    padding: 10px;
+    font-size: 100px;
+    
+}
+
+header .navbar{
+    font-size: 3rem;
+    margin: 10PX;
+    padding: 20PX;
+    
+}
+
+.img{
+    align-items: center;
+}
+
+.class .look{
+padding: 100px;
+font-size: 50px;
+animation: alternate-reverse;
+color: #fb0b0b;
+}
+
+
+.perfum{
+border-radius: 10px;
+padding: 40px;
+width: 300px;
+height: 450px;
+margin: 50px;
+display: flex;
+
+}
+
+.per{
+display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 90PX;
+}
+
+
+
+
+
+
+
+.ad-container { 
+  background-color: rgb(6, 29, 238); 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  overflow: hidden; 
+  max-width: 300px; 
+  text-align: center; 
+  align-items: flex-end;
+} 
+
+.ad-image { 
+  width: 100%; 
+  height: auto; 
+} 
+
+.ad-title { 
+  font-size: 24px; 
+  color: #150707; 
+  margin: 15px 0; 
+} 
+
+.ad-description { 
+  font-size: 16px; 
+  color: #000000; 
+  margin: 10px 0; 
+} 
+
+.ad-button { 
+  display: inline-block; 
+  padding: 10px 20px; 
+  margin: 15px 0; 
+  background-color: #fb0b0b; 
+  color: white; 
+  text-decoration: none; 
+  border-radius: 5px; 
+  transition: background-color 0.3s; 
+} 
+
+.ad-button:hover { 
+  background-color: #20007a; 
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 100px;
+    text-align: center;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-logo img {
+    width: 80px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-logo p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+
+  
+  .footer-social a {
+    margin: 20px;
+    display: inline-block;
+    font-size: 30PX;
+}
+  
+  .footer-social img {
+    width: 24px;
+    transition: transform 0.3s;
+  }
+  
+  .footer-social img:hover {
+    transform: scale(1.1);
+  }
+  
+  .footer-info {
+    margin-top: 15px;
+    font-size: 30px;
+    color: #888;
+  }
+  
