@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My web page</title>
+    <link rel="stylesheet" href="BCA 1 pro.css">
+</head>
+<body>
+
+<section id="Home">
+   <nav>
+    <div class="logo">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRErsQNQpsEZ5yPFSC_jDhWYaNKueWoMU0m_A&s">
+        
+    </div>
+
+     <ul>
+         <li><a href="#HOME">HOME</a></li>
+         <li><a href="MENU">MENU</a></li>
+         <li><a href="CATERING">CATERING</a></li>
+         <li><a href="CONTACT US">CONTACT US</a></li>
+         
+     </ul>
+   </nav>
+
+   <div class="main">
+
+    <div class="men_text">
+      <h1>Get Fresh<span>Food</span><br>in a Easy Way</h1>
+</div>
+
+<div class="main_image">
+  <img src="https://pngfile.net/public/uploads/preview/burger-png-image-117034393760cqkc5zh3r.png" alt="">
+</div>
+
+
+<div class="main_btn">
+  <a href="#">Order Now</a>
+</div>
+
+</div>
+   </section>
+
+ 
+  
+</body>
+</html>
