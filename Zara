@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>H&s</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="fashion .css">
+</head>
+<body>
+    <header class="header">
+        <a href="#home"><i class="fa-solid fa-bars"></i></a>
+
+        <a href="#home" class="logo"><span>ZARA</span></a>
+            
+        
+        <nav class="navbar">
+            <a href="#LOG IN"><i class="fa-regular fa-circle-user"></i> LOG IN</a>
+            <a href="#HELP"><i class="fa-regular fa-circle-question"></i> HELP</a>
+            <a href="#BASKET"><i class="fa-solid fa-envelope-circle-check"></i> BASKET</a>
+            
+        </nav>
+    </header>
+
+<section class="class"> 
+    <div class="look">
+       <marquee>NIGHT POUR HOMME</marquee>
+
+    </div>
+
+
+        <div class="per">
+          <div class="purfum">
+                <img src="https://static.zara.net/assets/public/24d7/4b0e/9b4e4c74a73a/6c303f01e6b4/20210547999-022-ult2/20210547999-022-ult2.jpg?ts=1710506323751&w=413">
+              </div>
+
+         <div class="purfum">
+          <img src="https://static.zara.net/assets/public/d8cd/b8a8/142844e590ec/734532ee441b/20210547999-021-ult3/20210547999-021-ult3.jpg?ts=1730976333179&w=413">
+              </div>
+
+        <div class="purfum">
+          <img src="https://static.zara.net/assets/public/8999/9d76/aa2347bfb181/575d3f5aa6b0/20210547999-020-ult4/20210547999-020-ult4.jpg?ts=1710506333141&w=413">
+              </div>
+
+</section>
+
+
+
+
+<aside class="advertise">
+<div class="ad-container"> 
+  <img src="https://static.zara.net/assets/public/ceab/d334/dd5c47f79028/3b6a82e071dd/T2011024202-p/T2011024202-p.jpg?ts=1730644098509&w=563" alt="Product Image" class="ad-image"> 
+  <h1 class="ad-title">Amazing Product!</h1> 
+  <p class="ad-description">Get 50% off on your first purchase. Limited time offer!</p> 
+  <a href="your-link-url" class="ad-button">Shop Now</a> 
+</div> 
+</aside>
+<img src="https://static.zara.net/assets/public/4f16/748e/029b4ea58a77/f762f843fb0b/T2011074899-ult3/T2011074899-ult3.jpg?ts=1730647200615&w=563">
+
+<table>
+  <tr><img src="https://static.zara.net/assets/public/e92a/a1f9/74654e3e97c8/1a7f43e45176/20130248999-ult4/20130248999-ult4.jpg?ts=1720081669238&w=479"></tr>
+  
+  <tr><img src="https://static.zara.net/assets/public/7452/8a37/2b394be18e26/2cda8a51cb03/20130249999-ult/20130249999-ult.jpg?ts=1720015554510&w=479"></tr>
+  
+  <tr><img src="https://static.zara.net/assets/public/1803/d095/3fee4a4fb2c5/580e49254094/20130243999-ult/20130243999-ult.jpg?ts=1720015546804&w=563"></tr>
+  <tr><img src="https://static.zara.net/assets/public/ac65/39fb/fe224c0fbd14/8fd0ace7df05/20130250999-ult/20130250999-ult.jpg?ts=1720015553091&w=479"></tr>
+</table>
+
+
+
+<footer class="footer">
+    <div class="footer-container">
+      
+      <img src="data:image/png;base64,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">
+      
+  <div class="footer-social">
+    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+    <a href="#"><i class="fa-brands fa-facebook"></i></a>
+    <a href="#"><i class="fa-solid fa-location-dot"></i></a>
+    </div>
+
+  <div class="footer-info">
+    <p>Name and address of the manufacturer:</p>
+    <p>Industria de Diseño Textil, S.A. (INDITEX, S.A.)
+       Avenida de la Diputación, Edificio Inditex, 15143, Arteixo (A Coruña), Spain
+      </p>
+  </div>
+
+
+      
+    </div>
+  </footer>
+
+</body>
+</html>
