@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Netflix Clone</title>
+    <link rel="stylesheet" href="net.css">
+    
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="logo">Netflix</div>
+        <nav class="nav">
+            <a href="#">Home</a>
+            <a href="#">TV Shows</a>
+            <a href="#">Movies</a>
+            <a href="#">New & Popular</a>
+            <a href="#">My List</a>
+        </nav>
+        <div class="user-profile">
+
+
+            <img src="data:image/jpeg;base64,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" alt="User Avatar">
+        </div>
+
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Featured Movie</h1>
+        <p>Watch now the latest blockbuster movie!</p>
+        <button class="btn">Play</button>
+        <button class="btn">More Info</button>
+    </section>
+
+    <!-- Movie Categories -->
+    <section class="categories">
+        <h2>Trending Now</h2>
+        <div class="movie-row">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAUjwIa0G0EQ6vQ27x1iZ5vkZblkEuLTvLjQ&s" alt="Movie 1">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5zIpGWvjqfaq3Gr7J-wy3_VYpNlWBMZFgQ&s" alt="Movie 2">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7yn0pvBkUKHWFmUIADLP8i8l96kvanJzdaQ&s" alt="Movie 3">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2MUXlvBLCDviABSihYWyzIiRKPVyfgJsxxg&s" alt="Movie 4">
+        </div>
+
+        <h2>Top Picks for You</h2>
+        <div class="movie-row">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItftjrdx2JbiuMdocmIUpTYBdemPsNiBoMw&s" alt="Movie 5">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJstSXswdxzUnw-ubRp6pjarSSaI0igxGyg&s" alt="Movie 6">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyHDCH5vn9MOqUMCo1sIHBC0cBQTizA80cA&s" alt="Movie 7">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7X-J7nwss1-kcEQ5U9gD_5zRJmrFjA6wSQ&s" alt="Movie 8">
+        </div>
+
+        
+       
+       
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Netflix Clone. All rights reserved.</p>
+
+    </footer>
+</body>
+</html>
